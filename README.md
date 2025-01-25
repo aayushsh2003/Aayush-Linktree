@@ -47,15 +47,15 @@ Another full-stack portfolio developed using the **MERN Stack**, showcasing dyna
 
 ## About Me
 
-- **Education**: Currently pursuing a degree in Computer Science at Poornima College of Engineering.
+- **Education**: Currently pursuing a degree in Computer Science and Engineering ( Artificial Intelligence) at Poornima College of Engineering.
 - **Hobbies**: I enjoy learning new technologies, reading tech blogs, and contributing to open-source projects.
 
 ## Connect with Me
 
-- **Website**: [Aayush Sharma Portfolio](https://yourportfolio.com)
-- **LinkedIn**: [Aayush Sharma on LinkedIn](https://www.linkedin.com/in/aayush-sharma)
-- **GitHub**: [@aayush-sharma](https://github.com/aayush-sharma)
-- **Twitter**: [@aayush_sharma](https://twitter.com/aayush_sharma)
+- **Website**: [Aayush Sharma Portfolio](https://aayush-linktree.vercel.app/)
+- **LinkedIn**: [Aayush Sharma on LinkedIn](https://in.linkedin.com/in/aayush-sharma-a44062299)
+- **GitHub**: [@aayush-sharma](https://github.com/aayushsh2003)
+- **Twitter**: [@aayush_sharma](#)
 
 ## License
 
