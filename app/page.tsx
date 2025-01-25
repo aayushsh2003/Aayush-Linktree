@@ -14,7 +14,6 @@ import {
   Mail,
   Book,
   Code,
-  Award,
   Cloud,
   Briefcase,
   Instagram,
