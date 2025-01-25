@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Aayush Sharma - Web Developer & Computer Science Student
 
-## Getting Started
+Hi there! 👋 I'm Aayush Sharma, a passionate Web Developer and a Computer Science student at **Poornima College of Engineering**. I love building innovative solutions and sharing knowledge.
 
-First, run the development server:
+I’m an alumnus of **Kendriya Vidyalaya No. 5, Jaipur**, and I’m continuously learning and growing in the field of web development and software engineering.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Projects
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Here are some of the projects I've worked on:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🖥️ React Portfolio
+A personal portfolio built with React to showcase my skills and projects.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🌐 Next.js Portfolio
+A professional portfolio built using **Next.js** to display my web development journey.
 
-## Learn More
+### 📄 Resume
+My digital resume showcasing my qualifications, skills, and experience.
 
-To learn more about Next.js, take a look at the following resources:
+### 👨‍💻 PCE Student Council
+A project built for Poornima College of Engineering's student council, featuring information about events, members, and activities.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🤖 AI Class of '26
+An AI-driven project for the class of 2026, aiming to solve a common problem with an intelligent solution.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🌦️ Weather App
+A weather application that provides real-time weather information using an API.
 
-## Deploy on Vercel
+### 💼 Fin Smart Accounting Replicate
+A replication of a financial smart accounting system, helping track expenses and generate reports.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🖌️ Tailwind CSS Portfolio
+A personal portfolio built using **Tailwind CSS** for clean and responsive UI design.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📊 MERN Stack Portfolio Dashboard
+A portfolio dashboard built using the **MERN Stack** (MongoDB, Express.js, React, Node.js) for full-stack application development.
+
+### 💻 MERN Stack Portfolio
+Another full-stack portfolio developed using the **MERN Stack**, showcasing dynamic content and authentication features.
+
+## Skills & Technologies
+
+- **Languages**: JavaScript, HTML, CSS, Python
+- **Web Technologies**: React, Next.js, Node.js, Express.js, Tailwind CSS, MongoDB
+- **Version Control**: Git, GitHub
+- **Tools**: VS Code, Postman, Figma
+
+## About Me
+
+- **Education**: Currently pursuing a degree in Computer Science at Poornima College of Engineering.
+- **Hobbies**: I enjoy learning new technologies, reading tech blogs, and contributing to open-source projects.
+
+## Connect with Me
+
+- **Website**: [Aayush Sharma Portfolio](https://yourportfolio.com)
+- **LinkedIn**: [Aayush Sharma on LinkedIn](https://www.linkedin.com/in/aayush-sharma)
+- **GitHub**: [@aayush-sharma](https://github.com/aayush-sharma)
+- **Twitter**: [@aayush_sharma](https://twitter.com/aayush_sharma)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+© 2025 Aayush Sharma. All rights reserved.
+
+---
+
+Built with **Next.js** and **Tailwind CSS**.
