@@ -22,6 +22,8 @@ import { Button } from "@/components/ui/button"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import Head from "next/head"
 import { PopupWindow } from "@/components/PopupWindow"
+import Image from "next/image"
+import type { LucideIcon } from "lucide-react"
 
 const links = [
   {
@@ -104,7 +106,7 @@ const links = [
 export default function LinkTree() {
   const [mounted, setMounted] = useState(false)
   const { theme, setTheme } = useTheme()
-  const [expandedLink, setExpandedLink] = useState(null)
+  const [expandedLink, setExpandedLink] = useState<number | null>(null)
   const [popupData, setPopupData] = useState({ url: "", name: "" })
   const [isPopupOpen, setIsPopupOpen] = useState(false)
 
@@ -227,9 +229,11 @@ export default function LinkTree() {
               whileTap={{ scale: 0.95 }}
               className="relative w-48 h-48 mx-auto mb-4 rounded-full overflow-hidden"
             >
-              <img
+              <Image
                 src="https://aayushkimehnat.vercel.app/img/aayush.png"
                 alt="Aayush Sharma - Web Developer and Computer Science Student"
+                width={192}
+                height={192}
                 className="w-full h-full object-cover"
               />
               <motion.div
@@ -385,7 +389,13 @@ export default function LinkTree() {
   )
 }
 
-function SocialIcon({ Icon, href, name }) {
+interface SocialIconProps {
+  Icon: LucideIcon
+  href: string
+  name: string
+}
+
+function SocialIcon({ Icon, href, name }: SocialIconProps) {
   return (
     <TooltipProvider>
       <Tooltip>
